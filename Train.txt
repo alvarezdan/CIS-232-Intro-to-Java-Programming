@@ -1,0 +1,8 @@
+'A',"Midtown West","Midtown East",1,7:00 AM,8:00 am
+'A',"Midtown East","Midtown West",1,8:00 AM,9:00 AM
+'B',"Downtown West","Downtown East",1,7:30 AM,8:30 AM
+'B',"Downtown East","Downtown West",1,8:30 AM,9:30 AM
+'C',"7th Ave North","7th Ave South",1,7:15 AM,8:15 AM
+'C',"7th Ave South","7th Ave North",1,8:15 AM,9:15 AM
+'D',"2nd Ave North","2nd Ave South",1,7:45 AM,8:45 AM
+'D',"2nd Ave South","2nd Ave North",1,8:45 AM,9:45 AM
